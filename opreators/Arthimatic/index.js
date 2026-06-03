@@ -11,17 +11,16 @@
 
 // let a = 999;
 // a++;
-// console.log(a)
+// console.    log(a)
 
 // let a = 1000;
 // a--;
 // console.log(a)
 
-
 // let x = 35;
 // let y = 45;
 // console.log(x * y)
-
+  
 // let a = 10;
 // let b = 5;
 // console.log(a + b)
@@ -47,7 +46,6 @@
 // let b = 3;
 // let z = a * b;
 // console.log(z)
-
 
 
 // let x = 9;

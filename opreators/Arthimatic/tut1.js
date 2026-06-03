@@ -38,9 +38,6 @@
 // console.log(z)
 
 
-
-
-
 // {
 // const a = 5;
 // const a = 8;
@@ -89,11 +86,20 @@
 
 
 // let b = 20;
-// b -= 7;
+// b -= 7;   
 // console.log(b)
 
 //let a = 10;
 // a += 5;
 
 
+// let num = 600;
+// num >= 500;
+// console.log(num)
+
+// let age = 45;
+// let num = 45;
+// console.log(age === num)
+
+ 
 

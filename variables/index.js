@@ -49,9 +49,21 @@
 // console.log(x)
 
 
-// const x = "Asif"
-//  x = "khan"
-//  console.log(x)
+
+// {
+//     let c = "khan";
+//     console.log(c)
+// }
+
+// {
+//   const  a = "Asif"; 
+//     console.log(a)
+// }
+
+// let x;
+// console.log(x)
+
+
 
 
 

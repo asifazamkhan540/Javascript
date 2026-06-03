@@ -22,7 +22,7 @@
 // console.log(a - b)
 
 
-// let a = 567;
+// let a = 567; 
 // let b = 345;
 // console.log(a - b)
 
@@ -32,7 +32,7 @@
 // console.log(y - x)
 
 
-let a = 77;
-let b = 37;
-console.log(a - b)
+// let a = 77;
+// let b = 37;
+// console.log(a - b)
 
