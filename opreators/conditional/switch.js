@@ -17,7 +17,6 @@
 
 //     default:
 //         console.log("not access")   
-
 // }
 
 
@@ -220,7 +219,6 @@
 //     case (Marks >= 200 && Name === "khan"):
 //         console.log("Pass");
 //         break;
-
 //     default:
 //         console.log("Fail");
 // }
@@ -244,3 +242,6 @@
 //     default:
 //         console.log("Unknown Brand")
 // }
+
+
+
