@@ -231,17 +231,17 @@
 //         console.log("Android phone")
 //         break;
 
-//     case "iphone":
+//     case "iphone": 
 //         console.log("Apple phone")
 //         break;
-
+ 
 //     case "Nokia":
 //         console.log("Old phone")
 //         break;
 
 //     default:
 //         console.log("Unknown Brand")
-// }
+// }    
 
 
 
