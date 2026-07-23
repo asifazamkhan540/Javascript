@@ -1,5 +1,5 @@
 // This is Tarnarry operator practice 
-// So Th efrist one is 
+// So The frist one is 
 
 // let password = "1234";
 
@@ -9,9 +9,8 @@
 
 // let name = "Asif khan"
 
-// let show = name === "Asif khan" ? "your name is corrt" : "worrng name"
+// let show = name === "Asif khan" ? "your name is corrt" : "worrng name";
 // console.log(show)
-
 
 
 // let temperature = 45;
@@ -65,5 +64,3 @@
 
 // let result = user === "Admain" ? " Access login" : "Not Access";
 // console.log(result);
-
-

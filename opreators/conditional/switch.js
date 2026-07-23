@@ -53,7 +53,7 @@
 // let opreator = "*";
 
 
-// switch (opreator             ) {
+// switch (opreator) {
 //     case "+" : 
 //         console.log(num1 + num2);
 //         break;

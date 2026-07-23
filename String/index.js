@@ -31,23 +31,27 @@
 // let c = "khan";
 // let e = a .concat(" " + b).concat (" " + c);
 
+
 // let str = "the is  asif ";
 // console.log(str.replace("the", "Azam"))
 
 
 // let a = "Asif";
-// console.log(a.indexOf("A"))
+// console.log(a.indexOf("A"));
+ 
 
 
 
 
-let a = "khan";
-console.log(a.toUpperCase());
-let b = "KHAN";
-console.log(b.toLowerCase());
 
-if(a === b){
-    console.log("correct");
-}else{
-    console.log("worrng")
-}
+// let a = "khan";
+// console.log(a.toUpperCase());
+// let b = "KHAN";
+// console.log(b.toLowerCase());
+
+// if(a === b){
+//     console.log("correct");
+// }else{
+//     console.log("worrng")
+// }
+

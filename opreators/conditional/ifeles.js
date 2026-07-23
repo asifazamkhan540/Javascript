@@ -146,7 +146,7 @@
 //     console.log("you pass the exam")
 // }else{
 //     console.log("you falid the exam")
-// }+
+// }
 
 
 // let English = 75;
