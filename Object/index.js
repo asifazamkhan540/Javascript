@@ -64,8 +64,7 @@ let school = {
     }
   }
 }
-
-console.log(school)
+console.log(school);
 
 
 let students = {
@@ -135,33 +134,3 @@ let account = {
 console.log(account.username);
 account.balance = 7000;
 
-
-const defaultSettings = {
-    theme: "light",
-    notifications :false
-};
-
-
-const customSettings = {
-    theme: "dark",
-    notifications : true
-};
-
-const finalSettings = Object.assign({}, customSettings, defaultSettings );
-console.log(finalSettings);
-
-
-const firstUser = { 
-    age: 20, 
-    city: "Swat",
-};
-
-const secondUser = {
-     name: "Ali",   
-    age: 25,
-    city: "Mingora",
-    job: "Developer"
-};
-
-const result = Object.assign({}, firstUser, secondUser);
-console.log(result);
