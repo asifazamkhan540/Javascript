@@ -1,34 +1,34 @@
 // This is javascript Array method Array,Array practice-?
 
 
-// let cart = ["keyboard", "mouse", "laptop"];
-// let a =Array.isArray(cart);
-// console.log(a);
+let cart = ["keyboard", "mouse", "laptop"];
+let cartResult =Array.isArray(cart);
+console.log(a);
 
 
-// let string = "javascript";
-// let x = Array.isArray(string);
-// console.log(x);
+let string = "javascript";
+let stringUpdate = Array.isArray(string);
+console.log(x);
 
 
-// let number = [10 , 30, 40, 50];
-// let x = Array.isArray(number);
-// console.log(x);
+let number = [10 , 30, 40, 50];
+let numberUpdate = Array.isArray(number);
+console.log(x);
 
 
-// let a = 100;
-// let x = Array.isArray(a);
-// console.log(x);
+let a = 100;
+let result = Array.isArray(a);
+console.log(x);
 
 
-// let x = true; 
-// let a = Array.isArray(x);
-// console.log(a)
+let x = true; 
+let  = Array.isArray(x);
+console.log(a);
 
 
-// let color = ["Red", "orange"];
-// let b = Array.isArray(color);
-// console.log(b);
+let color = ["Red", "orange"];
+let b = Array.isArray(color);
+console.log(b);
 
 
 // let array = {name : "Asif",};

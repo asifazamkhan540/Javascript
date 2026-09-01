@@ -1,14 +1,14 @@
-// The javaScript object method assign
+// The javaScript object method assign  
 
 let personalInfo = {
     firstNmae : "Ali",
-    city : "lahore"
+    city : "lahore",
 };
 
 let jobInfo = {
     firstNmae : "khan",
     title : " web Developer",
-    remote : true
+    remote : true,
 };
 let result = Object.assign({},personalInfo, jobInfo);
 console.log(result);
@@ -17,7 +17,7 @@ console.log(result);
 let userSetting = {
     them : "ligth",
     notification : true,
-    fontsize : "medium"
+    fontsize : "medium",
 };
  
 let newInfo = {
@@ -30,7 +30,7 @@ console.log(Object.assign({},userSetting, newInfo));
 let originalproduct = {
     id : 101,
     name : "laptop",
-    price : 800
+    price : 800,
 };
 
 let productCopy = {};
@@ -57,17 +57,17 @@ let first = {
 };
 let second = {
     name : "Ahmed",
-    city : "lahore"
+    city : "lahore",
 };
 console.log(Object.assign({}, first, second));
 
 
 let basic = {
-    name : "Ali"
+    name : "Ali",
 };
 
 let eduction = {
-    feild : "computer science"
+    feild : "computer science",
 };
 
 let skill = {
@@ -78,12 +78,12 @@ console.log(Object.assign({}, basic, eduction, skill));
  
 let user1 = {
     name : "Ahmed",
-    age : 25
+    age : 25,
 };
 
 let user2 = {
     age : 20,
-    city : "swat"
+    city : "swat",
 };
 console.log(Object.assign({},user1, user2));
 
@@ -107,6 +107,16 @@ let Home = {
 
 let work = {
     city : "Dubai",
-    job : "Developer"
+    job : "Developer",
 };
 console.log(Object.assign({}, Home, work));
+
+
+
+let name = {
+    fullname : "Ali khan",
+    lastname : "khan",
+    zipcode : 2313
+}
+
+console.log(name.fullname);
