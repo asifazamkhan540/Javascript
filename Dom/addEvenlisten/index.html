@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event listener practice</title>
+    <style>
+    .message {
+      color: blue;
+      font-size: 18px;
+      margin-top: 10px;
+    }
+    .user-text {
+      background-color: #e3f2fd;
+      padding: 8px 12px;
+      margin: 6px 0;
+      border-radius: 4px;
+      display: inline-block;
+    }
+
+    .error-msg {
+      color: red;
+      font-size: 14px;
+    }
+    .valid-item {
+      color: green;
+      font-weight: bold;
+    }
+    </style>
+</head>
+<body>
+  <!-- ==== Task 1 ====  -->
+    <h2>Event Listener Practice</h2>
+  
+  <button id="click-btn">Click Me!</button>
+  <div id="output"></div>
+
+  <!-- ==== Task 2 ====  -->
+   <h2>Dynamic Text Builder</h2>
+
+  <!-- Input and Button -->
+  <input type="text" id="user-input" placeholder="Type something...">
+  <button id="add-btn">Add Note</button>
+
+  <!-- Container for new elements -->
+  <div id="notes-container"></div>
+
+  <!-- ==== Task 3 ==== -->
+  <input type="text" id="name-input" placeholder="Type your name...">
+  <button id="add-name-btn">Add Name</button>
+
+  <ul id="name-list"></ul>
+
+
+  <!-- ==== Task 4 ==== -->
+
+  <h2>Validation Practice</h2>
+
+  <input type="text" id="task-input" placeholder="Enter task..." autocomplete="off">
+  <button id="task-btn">Add Task</button>
+
+  <p id="error-box" class="error-msg"></p>
+  <ul id="task-list"></ul>
+
+  <script src="index.js"></script>
+</body>
+</html>
